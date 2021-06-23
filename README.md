@@ -1,2 +1,2 @@
-# Generative-adversial-network-MNIST-dataset
+# Generative-adversarial-network-MNIST-dataset
 Generate handwritten digit images using GAN
